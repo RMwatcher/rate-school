@@ -1,0 +1,20 @@
+:root {
+    --background-color: #172026;
+    --text-color: #00ffff;
+    --hamburger-bars: #f8f8f8;
+    --buttons: #ff7e33;
+    --nav-bar: #027373;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+nav {
+    background-color: var(--nav-bar);
+}
